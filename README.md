@@ -20,4 +20,4 @@ docker run --rm  -it   registry.cn-shanghai.aliyuncs.com/copygithub/github:gitde
 
 # 原项目的说明
 
-[README.md](./READMEOLD.md)
+[README.md](README.md)
