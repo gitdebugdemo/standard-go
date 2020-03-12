@@ -7,11 +7,19 @@ package demo
 *
  */
 type Demo struct {
-	//接口
-	Demo_interface
 	//复用类
+	Demo_trait
 	Demo_trait_execute
 	Num int64
+}
+
+func (this *Demo) SetNum(num int64) *Demo {
+	this.Num = num
+	return this
+}
+
+func (this *Demo) GetNum() int64 {
+	return this.Num
 }
 
 func (this Demo) Say_world() string {
