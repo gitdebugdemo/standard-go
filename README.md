@@ -9,13 +9,13 @@
 * go /usr/local/go/bin/go run -mod=vendor /root/src/main.go &
 
 # 分支备注
-一份标准类面向对象代码结构实现. 包含入口函数invoke接口文件[生成]+trait包含属性的流程文件[生成]+逻辑文件[手写];
+[课程]把一个[类|字符串]解码成json, 再解码回去类.;
 
 # 懒人一键验证效果
 
 [Dockerfile源码](./Dockerfile)
 
-docker run --rm  -it   registry.cn-shanghai.aliyuncs.com/copygithub/github:gitdebugdemo-5e689c8f994631583914127;
+docker run --rm  -it   registry.cn-shanghai.aliyuncs.com/copygithub/github:gitdebugdemo-5e689d00e6b1c1583914240;
 
 
 # 原项目的说明
