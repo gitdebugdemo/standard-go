@@ -11,6 +11,7 @@ type Demo struct {
 	Demo_trait
 	Demo_trait_execute
 	Num int64
+	Name string
 }
 
 func (this *Demo) SetNum(num int64) *Demo {
