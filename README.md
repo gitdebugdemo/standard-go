@@ -9,13 +9,13 @@
 * go /usr/local/go/bin/go run -mod=vendor /root/src/main.go &
 
 # 分支备注
-go继承上的缺点坑,属性不覆盖;
+go继承上的缺点坑,函数不覆盖;
 
 # 懒人一键验证效果
 
 [Dockerfile源码](./Dockerfile)
 
-docker run --rm  -it   registry.cn-shanghai.aliyuncs.com/copygithub/github:gitdebugdemo-5e689d4a2cae71583914314;
+docker run --rm  -it   registry.cn-shanghai.aliyuncs.com/copygithub/github:gitdebugdemo-5e6ef3cb816e41584329675;
 
 
 # 原项目的说明

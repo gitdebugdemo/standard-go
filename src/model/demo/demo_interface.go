@@ -4,4 +4,5 @@ package demo
 type Demo_interface interface {
 	Say_world() string
 	Invoke()
+	A流程1() string
 }
