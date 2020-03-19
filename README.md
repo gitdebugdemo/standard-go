@@ -9,13 +9,13 @@
 * go /usr/local/go/bin/go run -mod=vendor /root/src/main.go &
 
 # 分支备注
-[课程]把一个[类|字符串]解码成json, 再解码回去类.;
+并发—单实例实践;
 
 # 懒人一键验证效果
 
 [Dockerfile源码](./Dockerfile)
 
-docker run --rm  -it   registry.cn-shanghai.aliyuncs.com/copygithub/github:gitdebugdemo-5e689d00e6b1c1583914240;
+docker run --rm  -it   registry.cn-shanghai.aliyuncs.com/copygithub/github:gitdebugdemo-5e733496b028e1584608406;
 
 
 # 原项目的说明
